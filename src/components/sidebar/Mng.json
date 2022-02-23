@@ -1,0 +1,7 @@
+[
+    {"id":1,"title":"Admin Management","icon":"fa fa-user-secret"},
+    {"id":2,"title":"Company Management","icon":"fa fa-building-o"},
+    {"id":3,"title":"Employee Management","icon":"fa fa-wrench"},
+    {"id":4,"title":"Warehouse","icon":"fa fa-archive"},
+    {"id":5,"title":"Contracts","icon":"fas fa-handshake"}
+]

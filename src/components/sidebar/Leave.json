@@ -1,0 +1,6 @@
+[
+    {"id":1,"title":"Requests","icon":"fa fa-question"},
+    {"id":2,"title":"Leave Policy","icon":"fa fa-sign-out"},
+    {"id":3,"title":"Special Days","icon":"fa fa-calendar"},
+    {"id":4,"title":"Apply for leave","icon":"fa fa-file-o"}
+]

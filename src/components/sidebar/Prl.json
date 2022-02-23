@@ -1,0 +1,5 @@
+[
+    {"id":1,"title":"Payroll","icon":"fa fa-money"},
+    {"id":2,"title":"Paygrade","icon":"fa fa-briefcase"},
+    {"id":3,"title":"Log Out","icon":"fa fa-power-off"}
+]

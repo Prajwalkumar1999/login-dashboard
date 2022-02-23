@@ -1,0 +1,6 @@
+[
+    {"id":1,"title": "Number of Subscribers", "value": "579","icon":"fa fa-user-o fa-2x text-lightblue"},
+    {"id":2,"title": "Times of watching", "value": "2467","icon":"fa fa-calendar fa-2x text-red"},
+    {"id":3,"title": "Number of Videos", "value": "340","icon":"fa fa-video-camera fa-2x text-yellow"},
+    {"id":4,"title": "Number of Likes", "value": "645","icon":"fa fa-thumbs-up fa-2x text-green"}
+]
